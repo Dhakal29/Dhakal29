@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Dhakal</h1>
-- 🔭 I’m currently working on **Web development and Machine learning**
+<!--- 🔭 I’m currently working on **Web development and Machine learning** -->
 
 - 📝 I regularly write articles on [https://dhakal-bek.medium.com/](https://dhakal-bek.medium.com/)
 
