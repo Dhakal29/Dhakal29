@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bibek Dhakal</h1>
 <!--- 🔭 I’m currently working on **Web development and Machine learning** -->
 
-- 📝 I sometimes write articles on [https://dhakal-bek.medium.com/](https://dhakal-bek.medium.com/)
+- 📝 I sometimes write articles on [Medium](https://dhakal-bek.medium.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
