@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibek Dhakal</h1>
 <h3 align="center">AI Developer building intelligent systems with LLMs, Machine Learning, and Cloud-native backends ⚡</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhakal29&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
 
 - 🔭 I'm currently working on **LLM-powered applications, Machine Learning, and Backend systems on AWS**
 - 🧠 Exploring the intersection of **AI, voice/conversational tech, and scalable cloud infrastructure**
