@@ -5,7 +5,6 @@
 - 🔭 I'm currently working on **LLM-powered applications, Machine Learning, and Backend systems on AWS**
 - 🧠 Exploring the intersection of **AI, voice/conversational tech, and scalable cloud infrastructure**
 - 📝 I sometimes write articles on [Medium](https://dhakal-bek.medium.com/)
-- ⚡ Fun fact: I enjoy turning research papers into real, working products
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
