@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/bibek-dhakal29/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://kaggle.com/dklbbk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://medium.com/@dhakal-bek" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://x.com/bbk_dkl" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray" alt="X"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
